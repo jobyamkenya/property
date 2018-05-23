@@ -1,0 +1,36 @@
+.navbar{
+ background:none !important;
+
+}
+.nav-link , .navbar-brand{
+ color: #000;
+ cursor: pointer;
+ font-family: Arial Rounded MT Bold;
+}
+.nav-link{
+ margin-right: 1em !important;
+}
+.nav-link:hover{
+ background: #f4f4f4;
+ color: #f97300;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+
+/*header style*/
+.header{
+ background-image: url('https://youtu.be/T3On2jn9Oo8');
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
+
+html, body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }

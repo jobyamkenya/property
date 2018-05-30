@@ -53,15 +53,15 @@ html, body {
 }
 .centered {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 54%;
+    left: 55%;
     transform: translate(-50%, -50%);
-    font-size: 80px;
+    font-size: 50px;
     font-family: Digitalt;
 }
 
 a img:hover { 
-    background-color: #FFD700;
+    background-color: #ef940e;
     border-radius: 200px;
 }
 
